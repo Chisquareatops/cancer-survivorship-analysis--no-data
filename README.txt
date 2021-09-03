@@ -22,4 +22,5 @@ The data rests on Fred Hutch servers and cannot be shared in this repository due
 - Lin_regs.csv
 - Chi_sq.csv
 - ppmc.csv
+- Final Report.pdf
 
